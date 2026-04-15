@@ -1,0 +1,5 @@
+estacoes = ("Verao", "Inverno", "Primavera", "Outono")
+print(estacoes)
+print(f"Primeira estacao: {estacoes[0]}")
+print(f"Ultima estacao: {estacoes[-1]}")
+print(f"Tipo: {type(estacoes)}")
