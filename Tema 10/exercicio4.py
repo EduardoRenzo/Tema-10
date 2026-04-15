@@ -1,0 +1,8 @@
+pets = ("Cachorro", "Gato", "Passaro")
+print(pets)
+print(f"Primeira pet: {pets[0]}")
+pets.append("Raposa")
+print(f"Após adicionar: {pets}")
+print(f"Após alterar: {pets}")
+print(f"Ultima pet: {pets[-1]}")
+print(f"Tipo: {type(pets)}")
